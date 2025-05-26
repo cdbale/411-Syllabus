@@ -1,0 +1,311 @@
+---
+title: "MKTG 411 Marketing Analytics"
+subtitle: "Winter 2025"
+output: pdf_document
+fontsize: 12pt
+urlcolor: blue
+header-includes:
+  - \usepackage{hyperref}
+  - \usepackage{multirow}
+  - \hypersetup{colorlinks=true, urlcolor=blue}
+---
+
+**Class**: Tuesday and Thursday \vspace{-3mm}
+
+- Section 1: 3:30pm - 4:45pm (170 TNRB)
+- Section 2: 12:30pm - 1:45 pm (W110 TNRB)
+
+**Instructor**: Cameron Bale \vspace{-3mm}
+
+- Contact: [cameron.bale@byu.edu](mailto:cameron.bale@byu.edu)
+- Office Hours: [By appointment](https://calendly.com/camdbresearch/30min). **Must be scheduled at least 24 hours in advance.**
+
+**Teaching Assistants**: Ethan Budge \vspace{-3mm}
+
+- Contact: [esbudge@student.byu.edu](mailto:esbudge@student.byu.edu)
+- Office Hours: 4pm - 6pm Mondays and Wednesdays. [Zoom link](https://byu.zoom.us/j/5731989983).
+- Phone: 636-226-5419 (for emergencies only, or if email unanswered after 72 hours)
+
+**Class Spotify Playlist**: [Add (appropriate) songs to play before class.](https://open.spotify.com/playlist/4HNFa5J1oEBRD4ySYBdJwO?si=f1af4c90f45447c6&pt=91667cc16865644966f6c0c334d39dc5)
+
+## Overview
+
+This course focuses on the principles and skills central to using analytics to generate marketing insights. Students are introduced to the fundamentals of using R and complete a series of projects. This course builds on data analysis as covered in MKTG 401 Marketing Research, reinforces and builds on the skills from MSB 325 Introductory Business Analytics (for students who have taken it), and emphasizes statistical programming.
+
+Course assignments include exercises, quizzes, and projects. Individual study and practice working through the assigned material will be crucial to a student's success in the course. While only a few techniques can be covered during the semester, the course materials and projects are designed to help equip and direct the interested student toward the next steps in their mastery of analytics.
+
+### *Course Purpose*
+
+Students will demonstrate basic fluency in R and be able to apply it in executing projects using a variety of common and emerging techniques in the practice of marketing analytics.
+
+### *Learning Outcomes*
+
+Having successfully completed this course, students will be able to do the following. \vspace{-3mm}
+
+- Evaluate data in light of managerial decisions.
+- Program in R.
+- Acquire data from a variety of sources.
+- Wrangle and visualize data.
+- Implement a variety of inferential and predictive models.
+- Communicate results in terms of business insights.
+
+## Tools and Materials
+
+This course is heavily focused on learning to analyze data in R. R is a free, open-source statistical software application that is commonly used in analytics. While it may take some getting used to, fluency in R will provide students with a marketable and transferable skill.
+
+Each student will need to bring a laptop, either their own or one rented from BYU, to code during class and complete assignments. All course materials will be available on [Canvas](https://byu.instructure.com). Students are encouraged to download the course materials so they have access after the semester ends.
+
+### *R*
+
+Students will start by using R via [Posit Cloud](http://posit.cloud), a browser-based data science tool that includes R and RStudio, which is a more coherent and visually appealing environment for running R. Students should sign up for an account and join the course [here](https://posit.cloud/spaces/571582/join?access_code=jp8-DQDeNLj6xSI4CHsRtAzsncKvfhiOEgfOogTH).
+
+### *Supplementary Material*
+
+There are two supplementary books that students may find useful. \vspace{-3mm}
+
+- The first book is *R for Data Science (2e)* by Hadley Wickham and Garrett Grolemund, which is available for free online at [r4ds.hadley.nz](https://r4ds.hadley.nz). This book is particularly helpful for learning more about the [tidyverse](https://www.tidyverse.org).
+- The second book is *Tidy Modeling with R* by Max Kuhn and Julia Silge, which is available for free online at [tmwr.org](https://www.tmwr.org). This book is particularly helpful for learning more about [tidymodels](https://www.tidymodels.org).
+
+For students looking for additional practice, there is a community dataset and challenge provided each week for [tidytuesday](https://github.com/rfordatascience/tidytuesday).
+
+### *The Internet*
+
+Students will inevitably end up searching for help online, though it is highly recommended that they search slides, class notes, and the supplementary material first. When that fails, the [Posit Community](https://community.rstudio.com) and [Stack Overflow](http://stackoverflow.com), in that order, will be most helpful to push through inevitable roadblocks. Please note that students will be graded on their use of the tools and coding style covered during the course and there is no guarantee that any help online will satisfy this expectation.
+
+### *GitHub Copilot*
+
+Students will eventually be introduced to [GitHub Copilot](https://github.com/features/copilot) as a tool to improve their productivity. Students should wait to use Copilot, or any other AI, until it is introduced in class. Please note that students will be graded on their use of the tools and coding style covered during the course and there is no guarantee that any AI will satisfy this expectation.
+
+## Student Success
+
+This course may be different from other courses students have taken. Because of the focus on learning a programming language to analyze data, the **beginning of the semester has a steep learning curve (lots of material in a short amount of time)** and students should plan accordingly.
+
+### *Studying*
+
+Students should consider the following study tips. \vspace{-3mm}
+
+1. Seek learning by study and faith (D&C 109:7).
+2. Prepare for class by previewing material and coming with questions.
+3. Actively code, take notes, and ask questions during class.
+4. Practice coding by completing exercises, referencing supplementary material as needed.
+5. Review exercise solutions and note where and why your work differs.
+6. Use the quizzes to gauge how well the material is understood.
+7. Work with classmates and utilize office hours.
+8. Download and organize all course materials, notes, and code.
+
+### *Coding*
+
+Students should consider the following coding tips. \vspace{-3mm}
+
+1. Learn by doing: Code in class and complete exercises.
+2. Pay *careful* attention to details.
+3. Don't code from scratch. Start with previous work and solutions.
+4. Look at and emulate good code.
+5. Literally sketch what transformed data should look like in the end.
+
+## Assessment
+
+Letter grades will follow the standard rubric. As mandated, the course will result in no more than an A- average (*i.e.*, a 3.65 GPA).
+
+|    |         |    |        |    |        |
+| :- | :------ | :- | :----- | :- | :----- |
+| A  | 93-100% | B- | 80-82% | D+ | 67-69% |
+| A- | 90-92%  | C+ | 77-79% | D  | 63-66% |
+| B+ | 87-89%  | C  | 73-76% | D- | 60-62% |
+| B  | 83-86%  | C- | 70-72% | E  | 0-59%  |
+
+Grades will be determined as follows.
+
+|                                              |     |
+| :------------------------------------------- | :-: |
+| Exercises                                    | 20% |
+| Quizzes                                      | 30% |
+| Projects                                     | 50% |
+
+Students have the opportunity to submit any **Exercise** late, until 11:59pm on the last day of class on April 15th, for 75% credit (*i.e.*, you will scale your score by 0.75). In addition, if your first score on an **Exercise** is less than 75%, you may resubmit once to receive 75% credit. Note that only two submissions will be accepted for any **Exercise**. Students are encouraged to review solutions to avoid repeated mistakes. **Quizzes** and **Projects** may not be submitted late except under prior authorization from the instructor.
+
+### *Exercises*
+
+Each lecture ends with an exercise that is due at the beginning of the following class when a student will be called on at random to share their solution. While students are encouraged to work together, each student is required to submit their own work.
+
+Students will grade their own submitted exercises using the rubric specified in each posted exercise solution, adding comments (directly for R scripts or using the comment feature for Word documents) where their solution differs from the posted solution.
+
+After each unit, students will submit all of their previously submitted but now graded exercises, with comments, along with responses to specified prompts as part of that unit's exercise review. **Late submissions that are submitted after their corresponding unit should be graded at the time of submission. Students must notify the instructor at the time of submission of such an assignment so that the grade can be updated in Canvas accordingly.**
+
+### *Quizzes*
+
+While students are encouraged to study in groups, each of the quizzes is to be completed individually, without assistance from other classmates. Each quiz will be available on Canvas during the associated unit and is intended to be used as a gauge of how well students understand the course material.
+
+### *Projects*
+
+The projects are the culmination of each unit. Students will have a week to complete each project. While students can work together in small groups, each student is required to submit their own work. Students are expected to attend class during project weeks where they can ask questions and work in groups.
+
+### *Extra Credit*
+
+Students interested in extra credit may earn one additional point towards their lowest project grade by meeting with the instructor for a one-on-one 'get-to-know-you' office hours meeting. This is my chance to get to know you outside of the classroom. **The due date is February 13th**. Remember that office hours are subject to availability, so schedule your meeting in advance! See the link at the top of the syllabus for scheduling.
+
+## Schedule
+
+All assignments are due on Canvas at the start of the class session they are associated with in the schedule. The third review and the third project will be due by the end of finals.
+
+Please note that the instructor reserves the right to change the syllabus, including the schedule, at any time and for any reason. In such circumstances, he will provide students sufficient advance notice as it relates to assignment deadlines.
+
+\begin{center}
+\footnotesize
+\renewcommand{\arraystretch}{1.1}
+\begin{tabular}{| c | c | l | l |}
+\hline
+\textbf{Week} & \textbf{Unit} & \textbf{Topic} & \textbf{Due Dates}\\
+
+% Data
+\hline
+\multirow{3}{*}{\shortstack{Week 1 \\ January 9}}
+  & \multirow{15}{*}{\shortstack{Data}}
+	  & \multirow{3}{*}{\shortstack[l]{FAQ and the Analytics Process}}	
+	    & \multirow{3}{*}{}\\ 	
+	& & & \\
+	& & & \\
+
+\cline{1-1}\cline{3-4}
+\multirow{3}{*}{\shortstack{Week 2 \\ January 14, 16}}
+	& & \multirow{3}{*}{\shortstack[l]{R and Transform Data \\ Visualize Discrete Data\textcolor{white}{g}}} 
+	  & \multirow{3}{*}{\shortstack[l]{Exercise 1 (T) \\ Exercise 2 (Th)}}\\
+	& & & \\
+	& & & \\
+
+\cline{1-1}\cline{3-4}
+\multirow{3}{*}{\shortstack{Week 3 \\ January 21, 23}}
+	& & \multirow{3}{*}{\shortstack[l]{Visualize Continuous Data \\ Quarto and Tidy Data}}
+		& \multirow{3}{*}{\shortstack[l]{Exercise 3 (T) \\ Exercise 4 (Th)}} \\
+  & & & \\
+  & & & \\
+
+\cline{1-1}\cline{3-4}
+\multirow{3}{*}{\shortstack{Week 4 \\ January 28, 30}}
+	& & \multirow{3}{*}{\shortstack[l]{Database Queries \\ APIs and Dashboards}}
+		& \multirow{3}{*}{\shortstack[l]{Exercise 5 (T) \\ Exercise 6 (Th)}} \\
+  & & & \\
+  & & & \\
+
+\cline{1-1}\cline{3-4}
+\multirow{3}{*}{\shortstack{Week 5 \\ February 4, 6}}
+	& & \multirow{3}{*}{\shortstack[l]{\textbf{Project 1: Patagonia CRM}}}
+		& \multirow{3}{*}{\shortstack[l]{Exercise 7, Quiz 1 (T)}} \\
+	&	& & \\
+  &	& & \\
+
+% Inference
+\hline
+\multirow{3}{*}{\shortstack{Week 6 \\ February 11, 13}}
+  & \multirow{15}{*}{\shortstack{Inference}}
+    & \multirow{3}{*}{\shortstack[l]{R and Statistical Modeling \\ Linear Models}}
+	    & \multirow{3}{*}{\shortstack[l]{Review 1, Project 1 (T) \\ Exercise 8 (Th)}} \\
+	& & & \\
+	& & & \\
+
+\cline{1-1}\cline{3-4}
+\multirow{3}{*}{\shortstack{Week 7 \\ February 20}}
+	& & \multirow{3}{*}{\shortstack[l]{Evaluate Model Fit}}
+		& \multirow{3}{*}{\shortstack[l]{Exercise 9 (Th)}} \\
+	&	& & \\
+  &	& & \\
+
+\cline{1-1}\cline{3-4}
+\multirow{3}{*}{\shortstack{Week 8 \\ February 25, 27}}
+	& & \multirow{3}{*}{\shortstack[l]{Explanatory Variables \\ Overfitting and Prediction}}
+		& \multirow{3}{*}{\shortstack[l]{Exercise 10 (T) \\ Exercise 11 (Th)}} \\
+	&	& & \\
+  &	& & \\
+
+\cline{1-1}\cline{3-4}
+\multirow{3}{*}{\shortstack{Week 9 \\ March 4, 6}}
+	&	& \multirow{3}{*}{\shortstack[l]{Preprocess Data \\ Logistic Regression}}
+		& \multirow{3}{*}{\shortstack[l]{Exercise 12 (T) \\ Exercise 13 (Th)}}\\
+	&	& & \\
+  &	& & \\
+
+\cline{1-1}\cline{3-4}
+\multirow{3}{*}{\shortstack{Week 10 \\ March 11, 13}}
+	& & \multirow{3}{*}{\shortstack[l]{\textbf{Project 2: Nielsen Sales}}}
+		& \multirow{3}{*}{\shortstack[l]{Exercise 14, Quiz 2 (T)}} \\
+	&	& & \\
+  &	& & \\
+
+% Prediction
+\hline
+\multirow{3}{*}{\shortstack{Week 11 \\ March 18, 20}}
+	& \multirow{15}{*}{\shortstack{Prediction}} 	
+		& \multirow{3}{*}{\shortstack[l]{R and Machine Learning \\ Decision Trees}}
+			& \multirow{3}{*}{\shortstack[l]{Review 2, Project 2 (T) \\ Exercise 15 (Th)}}\\
+	&	& & \\
+  &	& & \\
+
+\cline{1-1}\cline{3-4}
+\multirow{3}{*}{\shortstack{Week 12 \\ March 25, 27}} 	
+	&	& \multirow{3}{*}{\shortstack[l]{Random Forests\textcolor{white}{g} \\ Deep Learning}}
+		& \multirow{3}{*}{\shortstack[l]{Exercise 16 (T) \\ Exercise 17 (Th)}}\\
+	&	& & \\
+  &	& & \\
+
+\cline{1-1}\cline{3-4}
+\multirow{3}{*}{\shortstack{Week 13 \\ April 1, 3}}
+	&	& \multirow{3}{*}{\shortstack[l]{Ensembles\textcolor{white}{g} \\ K-Means Clustering}} 
+		& \multirow{3}{*}{\shortstack[l]{Exercise 18 (T) \\ Exercise 19 (Th)}}\\
+	&	& & \\
+  &	& & \\
+
+\cline{1-1}\cline{3-4}
+\multirow{3}{*}{\shortstack{Week 14 \\ April 8, 10}}
+	&	& \multirow{3}{*}{\shortstack[l]{Hierarchical Clustering \\ Topic Models}} 
+		& \multirow{3}{*}{\shortstack[l]{Exercise 20 (T) \\ Exercise 21 (Th)}}\\
+	&	& & \\
+  &	& & \\
+
+\cline{1-1}\cline{3-4}
+\multirow{3}{*}{\shortstack{Week 15 \\ April 15}}
+	& & \multirow{3}{*}{\shortstack[l]{\textbf{Project 3: Roomba Survey}}}
+		& \multirow{3}{*}{\shortstack[l]{Exercise 22, Quiz 3 (T)}} \\
+	&	& & \\
+  &	& & \\
+
+\hline
+\end{tabular}\\
+\end{center}
+
+\newpage
+## Honor Code
+
+In keeping with the principles of the BYU Honor Code, students are expected to be honest in all of their academic work. Academic honesty means, most fundamentally, that any work you present as your own must in fact be your own work and not that of another. Violations of this principle may result in a failing grade in the course and additional disciplinary action by the university. Students are also expected to adhere to the Dress and Grooming Standards. Adherence demonstrates respect for yourself and others and ensures an effective learning and working environment. It is the university's expectation, and every instructor's expectation in class, that each student will abide by all Honor Code standards. Please call the Honor Code Office at 801-422-2847 if you have questions about those standards.
+
+## Preventing & Responding to Sexual Misconduct
+
+Brigham Young University prohibits all forms of sexual harassment -- including sexual assault, dating violence, domestic violence, and stalking on the basis of sex -- by its personnel and students and in all its education programs or activities. University policy requires all faculty members to promptly report incidents of sexual harassment that come to their attention in any way and encourages reports by students who experience or become aware of sexual harassment. Incidents should be reported to the Title IX Coordinator at [title9@byu.edu](mailto:title9@byu.edu) or 801-422-8692 or 1085 WSC. Reports may also be submitted online at [titleix.byu.edu/report](https://titleix.byu.edu/report) or 1-888-238-1062 (24-hours a day). BYU offers a number of resources and services for those affected by sexual harassment, including the university's confidential Sexual Assault Survivor Advocate. Additional information about sexual harassment, the university's Sexual Harassment Policy, reporting requirements, and resources can be found in the University Catalog, by visiting [titleix.byu.edu](http://titleix.byu.edu), or by contacting the university's Title IX Coordinator.
+
+## Student Disability
+
+Brigham Young University is committed to providing a working and learning atmosphere that reasonably accommodates qualified persons with disabilities. A disability is a physical or mental impairment that substantially limits one or more major life activities. Whether an impairment is substantially limiting depends on its nature and severity, its duration or expected duration, and its permanent or expected permanent or long-term impact. Examples include vision or hearing impairments, physical disabilities, chronic illnesses, emotional disorders (*e.g.*, depression, anxiety), learning disorders, and attention disorders (*e.g.*, ADHD). If you have a disability which impairs your ability to complete this course successfully, please contact the University Accessibility Center (UAC), 2170 WSC or 801-422-2767 to request a reasonable accommodation. The UAC can also assess students for learning, attention, and emotional concerns. If you feel you have been unlawfully discriminated against on the basis of disability, please contact Shawn Smith at the Equal Employment Office at 801-422-2845, D-276 ASB for help.
+
+## Inappropriate Use of Course Materials
+
+All course materials (*e.g.*, outlines, handouts, syllabi, exams, quizzes, PowerPoint presentations, lectures, audio and video recordings, etc.) are proprietary. Students are prohibited from posting or selling any such course materials without the express written permission of the professor teaching this course. To do so is a violation of the Brigham Young University Honor Code.
+
+## Academic Honesty
+
+One of the injunctions of the Honor Code is the call to "be honest." Students come to the university not only to improve their minds, gain knowledge, and develop skills that will assist them in their life's work, but also to build character. "President David O. McKay taught that character is the highest aim of education..." (The Aims of a BYU Education). It is the purpose of the BYU Academic Honesty Policy to assist in fulfilling that aim. BYU students should seek to be totally honest in their dealings with others. They should complete their own work and be evaluated based upon that work. They should avoid academic dishonesty and misconduct in all its forms, including but not limited to plagiarism, fabrication or falsification, cheating, and other academic misconduct.
+
+## Marriott School of Business Inclusion Statement
+
+BYU Marriott is committed to fostering an environment of belonging for all students and employees. In accordance with the BYU Marriott vision, mission, and values, “We value respect for all individuals as children of God and recognize the inherent worth, divine potential, and agency of each person. A climate of respect and belonging enhances our learning, facilitates collaboration, and encourages personal growth.”
+
+We embrace the statement President Russell M. Nelson made on June 1, 2020.
+
+*"The Creator of us all calls on each of us to abandon attitudes of prejudice against any group of God's children. Any of us who has prejudice toward another race needs to repent!*
+
+*During the Savior's earthly mission, He constantly ministered to those who were excluded, marginalized, judged, overlooked, abused, and discounted. As His followers, can we do anything less?*
+
+*Let us be clear. We are brothers and sisters, each of us the child of a loving Father in Heaven. His Son, the Lord Jesus Christ, invites all to come unto Him -- 'black and white, bond and free, male and female,' (2 Nephi 26:33). It behooves each of us to do whatever we can in our spheres of influence to preserve the dignity and respect every son and daughter of God deserves."*
+
+## Mental Health
+
+Mental health concerns and stressful life events can affect students' academic performance and quality of life. BYU Counseling and Psychological Services (CAPS, 1500 WSC, 801-422-3035, caps.byu.edu) provides individual, couples, and group counseling, as well as stress management services. These services are confidential and are provided by the university at no cost for full-time students. For general information please visit [caps.byu.edu](https://caps.byu.edu); for more immediate concerns please visit [help.byu.edu](http://help.byu.edu).
+
