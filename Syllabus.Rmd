@@ -57,7 +57,7 @@ Each student will need to bring a laptop, either their own or one rented from BY
 
 ### *R*
 
-Students will start by using R via [Posit Cloud](http://posit.cloud), a browser-based data science tool that includes R and RStudio, which is a more coherent and visually appealing environment for running R. Students should sign up for an account and join the course [here](https://posit.cloud/spaces/571582/join?access_code=jp8-DQDeNLj6xSI4CHsRtAzsncKvfhiOEgfOogTH).
+Students will use [R and RStudio](https://posit.co/download/rstudio-desktop/) in this course, and should install these as soon as possible so as to be able to participate in live-coding activities in class starting on day two.
 
 ### *Supplementary Material*
 
@@ -72,9 +72,9 @@ For students looking for additional practice, there is a community dataset and c
 
 Students will inevitably end up searching for help online, though it is highly recommended that they search slides, class notes, and the supplementary material first. When that fails, the [Posit Community](https://community.rstudio.com) and [Stack Overflow](http://stackoverflow.com), in that order, will be most helpful to push through inevitable roadblocks. Please note that students will be graded on their use of the tools and coding style covered during the course and there is no guarantee that any help online will satisfy this expectation.
 
-### *GitHub Copilot*
+### *Generative AI*
 
-Students will eventually be introduced to [GitHub Copilot](https://github.com/features/copilot) as a tool to improve their productivity. Students should wait to use Copilot, or any other AI, until it is introduced in class. Please note that students will be graded on their use of the tools and coding style covered during the course and there is no guarantee that any AI will satisfy this expectation.
+It is expected and encouraged that students will use GenAI (e.g. ChatGPT) to brainstorm ideas and debug their code in this class. However, one of the central learning outcomes of the course is the ability to think critically about how to solve business problems using data, and AI should be used as a tool to accomplish this end, not the sole contributor on assignments and projects. Please note that students will be graded on their use of the tools and coding style covered during the course and there is no guarantee that any AI will satisfy this expectation.
 
 ## Student Success
 
