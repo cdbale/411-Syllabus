@@ -1,6 +1,6 @@
 ---
 title: "MKTG 411 Marketing Analytics"
-subtitle: "Winter 2025"
+subtitle: "Winter 2026"
 output: pdf_document
 fontsize: 12pt
 urlcolor: blue
@@ -18,25 +18,35 @@ header-includes:
 **Instructor**: Cameron Bale \vspace{-3mm}
 
 - Contact: [cameron.bale@byu.edu](mailto:cameron.bale@byu.edu)
-- Office Hours: [By appointment](https://calendly.com/camdbresearch/30min). **Must be scheduled at least 24 hours in advance.**
+- Office Hours (Available Wednesdays, 12pm - 4pm): [By appointment](https://calendly.com/camdbresearch/30min).
 
-**Teaching Assistants**: Ethan Budge \vspace{-3mm}
+**Teaching Assistants**: 
 
-- Contact: [esbudge@student.byu.edu](mailto:esbudge@student.byu.edu)
-- Office Hours: 4pm - 6pm Mondays and Wednesdays. [Zoom link](https://byu.zoom.us/j/5731989983).
-- Phone: 636-226-5419 (for emergencies only, or if email unanswered after 72 hours)
+- Lark Lapicola \vspace{-3mm}
+    - Contact: [artsylar@student.byu.edu](mailto:artsylar@student.byu.edu)
+    - Office Hours:
+    
+- Vincent Crowns \vspace{-3mm}
+    - Contact: [v1842@student.byu.edu](mailto:v1842@student.byu.edu)
+    - Office Hours:
 
-**Class Spotify Playlist**: [Add (appropriate) songs to play before class.](https://open.spotify.com/playlist/4HNFa5J1oEBRD4ySYBdJwO?si=f1af4c90f45447c6&pt=91667cc16865644966f6c0c334d39dc5)
+- Ethan Miller \vspace{-3mm}
+    - Contact: [middlee@student.byu.edu](mailto:middlee@student.byu.edu)
+    - Office Hours:
+    
+- Rebecca Stark \vspace{-3mm}
+    - Contact: [rcstark0@student.byu.edu](mailto:rcstark0@student.byu.edu)
+    - Office Hours:
 
 ## Overview
 
-This course focuses on the principles and skills central to using analytics to generate marketing insights. Students are introduced to the fundamentals of using R and complete a series of projects. This course builds on data analysis as covered in MKTG 401 Marketing Research, reinforces and builds on the skills from MSB 325 Introductory Business Analytics (for students who have taken it), and emphasizes statistical programming.
+This course focuses on the principles and skills central to using analytics to generate marketing insights. Students are introduced to the fundamentals of using R and complete a series of projects. This course builds on data analysis as covered in MKTG 401 Marketing Research, reinforces and builds on the skills from MSB 325 Introductory Business Analytics (for students who have taken it), and emphasizes statistical programming. While prior programming experience is beneficial, it is not a requirement.
 
 Course assignments include exercises, quizzes, and projects. Individual study and practice working through the assigned material will be crucial to a student's success in the course. While only a few techniques can be covered during the semester, the course materials and projects are designed to help equip and direct the interested student toward the next steps in their mastery of analytics.
 
 ### *Course Purpose*
 
-Students will demonstrate basic fluency in R and be able to apply it in executing projects using a variety of common and emerging techniques in the practice of marketing analytics.
+Students will gain experience merging business acumen and technical skills. In doing so, students will become adept in identifying potential solutions to business problems, proposing data-driven solutions to those problems, and communicating and summarizing technical results in a managerially relevant manner. Students will demonstrate fluency in R and be able to apply it in executing projects using a variety of common and emerging techniques in the practice of marketing analytics.
 
 ### *Learning Outcomes*
 
@@ -51,13 +61,13 @@ Having successfully completed this course, students will be able to do the follo
 
 ## Tools and Materials
 
-This course is heavily focused on learning to analyze data in R. R is a free, open-source statistical software application that is commonly used in analytics. While it may take some getting used to, fluency in R will provide students with a marketable and transferable skill.
+This course is heavily focused on learning to analyze data in R, which is a free, open-source statistical software application that is commonly used in analytics. While it may take some getting used to, fluency in R will provide students with a marketable and transferable skill.
 
 Each student will need to bring a laptop, either their own or one rented from BYU, to code during class and complete assignments. All course materials will be available on [Canvas](https://byu.instructure.com). Students are encouraged to download the course materials so they have access after the semester ends.
 
 ### *R*
 
-Students will start by using R via [Posit Cloud](http://posit.cloud), a browser-based data science tool that includes R and RStudio, which is a more coherent and visually appealing environment for running R. Students should sign up for an account and join the course [here](https://posit.cloud/spaces/571582/join?access_code=jp8-DQDeNLj6xSI4CHsRtAzsncKvfhiOEgfOogTH).
+Students should use [this link](https://posit.co/download/rstudio-desktop/) to install R and RStudio on their laptops. Note that installing R enables your computer to run R code. RStudio is the application (IDE) by which students will interact with and write R code.
 
 ### *Supplementary Material*
 
@@ -72,9 +82,31 @@ For students looking for additional practice, there is a community dataset and c
 
 Students will inevitably end up searching for help online, though it is highly recommended that they search slides, class notes, and the supplementary material first. When that fails, the [Posit Community](https://community.rstudio.com) and [Stack Overflow](http://stackoverflow.com), in that order, will be most helpful to push through inevitable roadblocks. Please note that students will be graded on their use of the tools and coding style covered during the course and there is no guarantee that any help online will satisfy this expectation.
 
-### *GitHub Copilot*
 
-Students will eventually be introduced to [GitHub Copilot](https://github.com/features/copilot) as a tool to improve their productivity. Students should wait to use Copilot, or any other AI, until it is introduced in class. Please note that students will be graded on their use of the tools and coding style covered during the course and there is no guarantee that any AI will satisfy this expectation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### *Artificial Intelligence*
+
+Artificial intelligence (AI) has become an indispensible tool for data science and analytics. As such, it is expected that students will leverage AI capabilities in *understanding* and *writing* code.
+
+Possible models: ChatGPT, GitHub copilot, Claude, perplexity, etc.
+
+It is also expected that students will *regulate* their AI usage. Think about self-governance. Include scriptures or general conference talk on agency supporting vs. agency reducing. Possible studies on the use of AI on student performance and brain activity.
+
+Students will eventually be introduced to [GitHub Copilot](https://github.com/features/copilot) as a tool to improve their productivity. Please note that students will be graded on their use of the tools and coding style covered during the course and there is no guarantee that any AI will satisfy this expectation.
 
 ## Student Success
 
