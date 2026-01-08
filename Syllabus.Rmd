@@ -1,5 +1,5 @@
 ---
-title: "MKTG 411 Marketing Analytics"
+title: "MCB Consulting Group (MKTG 411)"
 subtitle: "Winter 2026"
 output: pdf_document
 fontsize: 12pt
@@ -10,126 +10,113 @@ header-includes:
   - \hypersetup{colorlinks=true, urlcolor=blue}
 ---
 
-**Class**: Tuesday and Thursday \vspace{-3mm}
+**Meeting Times**: Tuesday and Thursday \vspace{-3mm}
 
 - Section 1: 3:30pm - 4:45pm (170 TNRB)
 - Section 2: 12:30pm - 1:45 pm (W110 TNRB)
 
-**Instructor**: Cameron Bale \vspace{-3mm}
+**CAO**: Cameron Bale \vspace{-3mm}
 
 - Contact: [cameron.bale@byu.edu](mailto:cameron.bale@byu.edu)
 - Office Hours (Available Wednesdays, 12pm - 4pm): [By appointment](https://calendly.com/camdbresearch/30min).
 
-**Teaching Assistants**: 
+**Senior Analytics Partners**: 
 
 - Lark Lapicola \vspace{-3mm}
     - Contact: [artsylar@student.byu.edu](mailto:artsylar@student.byu.edu)
-    - Office Hours:
+    - Office Hours: 2:00pm - 3:15pm Tu/Th
     
 - Vincent Crowns \vspace{-3mm}
     - Contact: [v1842@student.byu.edu](mailto:v1842@student.byu.edu)
-    - Office Hours:
+    - Office Hours: 1:00pm - 2:15pm M/W (in-person, Blue Line)
 
 - Ethan Miller \vspace{-3mm}
     - Contact: [middlee@student.byu.edu](mailto:middlee@student.byu.edu)
-    - Office Hours:
+    - Office Hours: 5:00pm - 6:15pm Tu/Th (in-person, Blue Line)
     
 - Rebecca Stark \vspace{-3mm}
     - Contact: [rcstark0@student.byu.edu](mailto:rcstark0@student.byu.edu)
-    - Office Hours:
+    - Office Hours: 11:00am - 12:15pm Tu/Th (in-person, Blue Line)
 
 ## Overview
 
-This course focuses on the principles and skills central to using analytics to generate marketing insights. Students are introduced to the fundamentals of using R and complete a series of projects. This course builds on data analysis as covered in MKTG 401 Marketing Research, reinforces and builds on the skills from MSB 325 Introductory Business Analytics (for students who have taken it), and emphasizes statistical programming. While prior programming experience is beneficial, it is not a requirement.
+Congratulations on your recent employment with the MCB consulting group! In this job, you will focus on learning and applying the principles and skills central to using analytics to generate marketing insights for clients. Employees are introduced to the fundamentals of using R and will complete a series of projects. This job will build on data analysis techniques used in marketing research (MKTG 401) and introductory business analytics (MSB 325). While prior programming experience is a preferred skill, it is not a requirement.
 
-Course assignments include exercises, quizzes, and projects. Individual study and practice working through the assigned material will be crucial to a student's success in the course. While only a few techniques can be covered during the semester, the course materials and projects are designed to help equip and direct the interested student toward the next steps in their mastery of analytics.
+Job assignments include exercises, quizzes, and projects. Individual study and practice will be crucial to an employee's success. While only a few techniques can be covered during the job, the materials and projects are designed to help equip and direct the interested employee toward the next steps in their mastery of analytics.
 
-### *Course Purpose*
+### *Job Purpose*
 
-Students will gain experience merging business acumen and technical skills. In doing so, students will become adept in identifying potential solutions to business problems, proposing data-driven solutions to those problems, and communicating and summarizing technical results in a managerially relevant manner. Students will demonstrate fluency in R and be able to apply it in executing projects using a variety of common and emerging techniques in the practice of marketing analytics.
+My goal is to help employees to become capable analysts, reflective thinkers, and principled decision makers. Employees will gain experience merging business acumen and technical skills. In doing so, they will become adept in identifying potential solutions to business problems, proposing data-driven approaches to achieve those solutions, and communicating and summarizing technical results in a managerially relevant manner.
 
-### *Learning Outcomes*
+### *Training (Learning) Outcomes*
 
-Having successfully completed this course, students will be able to do the following. \vspace{-3mm}
+Learning on the job is a two-way street. I will do my best to impart my knowledge and experience to you. By joining this consulting group, you are committing to do your best to show up every day spiritually, mentally, and physically ready to learn and contribute. For those that do, the following outcomes will be attainable: \vspace{-3mm}
 
-- Evaluate data in light of managerial decisions.
-- Program in R.
-- Acquire data from a variety of sources.
-- Wrangle and visualize data.
-- Implement a variety of inferential and predictive models.
-- Communicate results in terms of business insights.
+- Increased faith in Jesus Christ, by which you will obtain the confidence and courage to not only program in R and conduct analyses, but to communicate results of those analyses in a way that is practical and relevant to business practice.
+- The ability to conduct analyses with integrity by clearly documenting decision processes, identifying and communicating flaws in data and models, and quantifying uncertainty.
+- Self-motivation to continually improve and to take responsibility for mistakes.
+- The ability to recognize and develop excellence in your own analytical work and the work of others.
 
 ## Tools and Materials
 
-This course is heavily focused on learning to analyze data in R, which is a free, open-source statistical software application that is commonly used in analytics. While it may take some getting used to, fluency in R will provide students with a marketable and transferable skill.
+Throughout this job, you will be analyzing data in R, which is a free, open-source statistical software application that is commonly used in analytics. While it may take some getting used to, fluency in R will provide employees with a marketable and transferable skill.
 
-Each student will need to bring a laptop, either their own or one rented from BYU, to code during class and complete assignments. All course materials will be available on [Canvas](https://byu.instructure.com). Students are encouraged to download the course materials so they have access after the semester ends.
+Each employee will need to come to meetings with a laptop, either their own or one rented from BYU, to code during meetings and complete assignments. All job materials will be available on [Canvas](https://byu.instructure.com). Employees are encouraged to download the job materials so they have access after their employment ends.
 
 ### *R*
 
-Students should use [this link](https://posit.co/download/rstudio-desktop/) to install R and RStudio on their laptops. Note that installing R enables your computer to run R code. RStudio is the application (IDE) by which students will interact with and write R code.
+Employees should use [this link](https://posit.co/download/rstudio-desktop/) to install R and RStudio on their laptops. Note that installing R enables your computer to run R code. RStudio is the application (IDE) by which employees will interact with and write R code.
 
 ### *Supplementary Material*
 
-There are two supplementary books that students may find useful. \vspace{-3mm}
+There are two supplementary books that employees may find useful. \vspace{-3mm}
 
 - The first book is *R for Data Science (2e)* by Hadley Wickham and Garrett Grolemund, which is available for free online at [r4ds.hadley.nz](https://r4ds.hadley.nz). This book is particularly helpful for learning more about the [tidyverse](https://www.tidyverse.org).
 - The second book is *Tidy Modeling with R* by Max Kuhn and Julia Silge, which is available for free online at [tmwr.org](https://www.tmwr.org). This book is particularly helpful for learning more about [tidymodels](https://www.tidymodels.org).
 
-For students looking for additional practice, there is a community dataset and challenge provided each week for [tidytuesday](https://github.com/rfordatascience/tidytuesday).
+For those looking for additional practice, there is a community data set and challenge provided each week for [tidytuesday](https://github.com/rfordatascience/tidytuesday).
 
 ### *The Internet*
 
-Students will inevitably end up searching for help online, though it is highly recommended that they search slides, class notes, and the supplementary material first. When that fails, the [Posit Community](https://community.rstudio.com) and [Stack Overflow](http://stackoverflow.com), in that order, will be most helpful to push through inevitable roadblocks. Please note that students will be graded on their use of the tools and coding style covered during the course and there is no guarantee that any help online will satisfy this expectation.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Employees will inevitably end up searching for help online, though it is highly recommended that they search slides, notes, and the supplementary material first. When that fails, the [Posit Community](https://community.rstudio.com) and [Stack Overflow](http://stackoverflow.com), in that order, will be most helpful to push through inevitable roadblocks. Please note that employees will be evaluated on their use of the tools and coding style covered during job meetings and there is no guarantee that any help online will satisfy this expectation.
 
 ### *Artificial Intelligence*
 
-Artificial intelligence (AI) has become an indispensible tool for data science and analytics. As such, it is expected that students will leverage AI capabilities in *understanding* and *writing* code.
+Artificial intelligence (AI) has become an indispensable tool for data science and analytics. As such, it is expected that employees will leverage AI capabilities in *understanding* and *writing* code. It is also expected that employees will *regulate* their own AI usage. [Early-stage research](https://arxiv.org/pdf/2506.08872v1) suggests that active ChatGPT usage can reduce learning skills, reflected in lower amounts of brain activity when performing tasks such as writing (or coding!). This represents a danger to the personal and spiritual growth of employees, but at the same time, we should seek to make the firm as productive as possible.
 
-Possible models: ChatGPT, GitHub copilot, Claude, perplexity, etc.
+The gospel always provides the necessary context for us to reconcile conflicting temporal and spiritual motivations. The following excerpt from ["Things as They Really Are 2.0"](https://www.churchofjesuschrist.org/study/broadcasts/worldwide-devotional-for-young-adults/2024/11/13bednar?lang=eng) gives some excellent perspective:
 
-It is also expected that students will *regulate* their AI usage. Think about self-governance. Include scriptures or general conference talk on agency supporting vs. agency reducing. Possible studies on the use of AI on student performance and brain activity.
+"Now, I believe AI appropriately can assist in gathering information, critiquing our thinking, evaluating our writing style, and accelerating an iterative process of learning “line upon line [and] precept upon precept.” But the divine capacities to create and work belong uniquely to each of us as sons and daughters of God. We undoubtedly can generate and produce fabulous content for [school/church/work] with AI. But the objective is not merely producing or presenting impressive content; rather, it is working and becoming what God intends and yearns for us to become."
 
-Students will eventually be introduced to [GitHub Copilot](https://github.com/features/copilot) as a tool to improve their productivity. Please note that students will be graded on their use of the tools and coding style covered during the course and there is no guarantee that any AI will satisfy this expectation.
+I encourage you to keep the following principles in mind:
 
-## Student Success
+- AI is a *tool*, and is not good and bad in and of itself; its morality depends on how it is used. AI can assist in gathering information, critiquing thinking, and evaluating writing and coding, but it is not a source of truth and cannot replace personal revelation.
+- Over-reliance on AI can lead to both spiritual and temporal slothfulness. Our objective is not just the final product, but the process of working and learning line upon line and becoming the person God intends us to be.
+- AI cannot simulate, imitate, or replace the influence of the Holy Ghost. Spiritual discernment is essential when navigating content and uncovering truth.
+- AI should supplement, not replace, human work, creativity, and divine capacities.
 
-This course may be different from other courses students have taken. Because of the focus on learning a programming language to analyze data, the **beginning of the semester has a steep learning curve (lots of material in a short amount of time)** and students should plan accordingly.
+Remember - do not be "transformed from [employees] who can act into objects that are only acted upon."
 
-### *Studying*
+## Employee Success
 
-Students should consider the following study tips. \vspace{-3mm}
+Because of our focus on learning to use a programming language to analyze data, the **beginning of your employment has a steep learning curve (lots of material in a short amount of time)** and employees should plan accordingly.
+
+Employees should consider the following tips for enhancing their job performance. \vspace{-3mm}
 
 1. Seek learning by study and faith (D&C 109:7).
-2. Prepare for class by previewing material and coming with questions.
-3. Actively code, take notes, and ask questions during class.
+2. Prepare for job meetings by previewing material and coming with questions.
+3. Actively code, take notes, and ask questions.
 4. Practice coding by completing exercises, referencing supplementary material as needed.
 5. Review exercise solutions and note where and why your work differs.
 6. Use the quizzes to gauge how well the material is understood.
-7. Work with classmates and utilize office hours.
-8. Download and organize all course materials, notes, and code.
+7. Work with other employees and utilize office hours.
+8. Download and organize all job materials, notes, and code.
 
 ### *Coding*
 
-Students should consider the following coding tips. \vspace{-3mm}
+Employees should consider the following coding tips. \vspace{-3mm}
 
-1. Learn by doing: Code in class and complete exercises.
+1. Learn by doing: Code live during meetings and complete exercises.
 2. Pay *careful* attention to details.
 3. Don't code from scratch. Start with previous work and solutions.
 4. Look at and emulate good code.
@@ -137,7 +124,15 @@ Students should consider the following coding tips. \vspace{-3mm}
 
 ## Assessment
 
-Letter grades will follow the standard rubric. As mandated, the course will result in no more than an A- average (*i.e.*, a 3.65 GPA).
+### Performance Assessment (Grading) Philosophy
+
+Unfortunately, performance assessments will almost always involve some level of subjectivity. I have taken steps to make the assessments as fair as possible. Please see the approaches for assessing the quality of the three types of deliverables you will produce:
+
+- Skill-building exercises: employees evaluate their own exercises according to a provided rubric.
+- Knowledge Checks: multiple choice questions that are automatically graded in Canvas.
+- Projects: open ended projects that are evaluated once by each senior partner. Employees receive the average of the partner assessments as their final evaluation for a given project. To encourage personal progress and growth, we will give a boost to any employee that demonstrates improvement in project quality of the course of their employment.
+
+Final performance assessments will follow a standard rubric. As mandated, the distribution of employee grades will result in no more than an A- average (*i.e.*, a 3.65 GPA).
 
 |    |         |    |        |    |        |
 | :- | :------ | :- | :----- | :- | :----- |
@@ -146,7 +141,7 @@ Letter grades will follow the standard rubric. As mandated, the course will resu
 | B+ | 87-89%  | C  | 73-76% | D- | 60-62% |
 | B  | 83-86%  | C- | 70-72% | E  | 0-59%  |
 
-Grades will be determined as follows.
+Final grades will be determined based on the following weights applied to the evaluations of each type of deliverable.
 
 |                                              |     |
 | :------------------------------------------- | :-: |
@@ -154,33 +149,33 @@ Grades will be determined as follows.
 | Quizzes                                      | 30% |
 | Projects                                     | 50% |
 
-Students have the opportunity to submit any **Exercise** late, until 11:59pm on the last day of class on April 15th, for 75% credit (*i.e.*, you will scale your score by 0.75). In addition, if your first score on an **Exercise** is less than 75%, you may resubmit once to receive 75% credit. Note that only two submissions will be accepted for any **Exercise**. Students are encouraged to review solutions to avoid repeated mistakes. **Quizzes** and **Projects** may not be submitted late except under prior authorization from the instructor.
+Employees have the opportunity to submit any **Skill-building exercise** late for up to *one week* after the initial deadline, for 75% credit (*i.e.*, you will scale your score by 0.75). In addition, if your first score on an **Exercise** is less than 75%, you may resubmit once to receive 75% credit. Note that only two submissions will be accepted for any **Exercise**. **Knowledge Checks** and **Projects** may not be submitted late except under prior authorization from the instructor.
 
-### *Exercises*
+### *Skill-building Exercises*
 
-Each lecture ends with an exercise that is due at the beginning of the following class when a student will be called on at random to share their solution. While students are encouraged to work together, each student is required to submit their own work.
+Each job meeting ends with a skill-building exercise that must be submitted prior to the start of the next meeting. While employees are encouraged to work together, each employee is required to submit their own exercise.
 
-Students will grade their own submitted exercises using the rubric specified in each posted exercise solution, adding comments (directly for R scripts or using the comment feature for Word documents) where their solution differs from the posted solution.
+Employees will evaluate their own submitted exercises using a rubric specified in each posted exercise solution, adding comments (directly for R scripts or using the comment feature for Word documents) where their solution differs from the posted solution.
 
-After each unit, students will submit all of their previously submitted but now graded exercises, with comments, along with responses to specified prompts as part of that unit's exercise review. **Late submissions that are submitted after their corresponding unit should be graded at the time of submission. Students must notify the instructor at the time of submission of such an assignment so that the grade can be updated in Canvas accordingly.**
+After each unit, employees will submit all of their previously submitted but now graded exercises, with comments, along with responses to specified prompts as part of that unit's exercise review. **Late submissions that are submitted after their corresponding unit should be graded at the time of submission. Employees must notify the CAO at the time of submission of such an assignment.**
 
-### *Quizzes*
+### *Knowledge Checks*
 
-While students are encouraged to study in groups, each of the quizzes is to be completed individually, without assistance from other classmates. Each quiz will be available on Canvas during the associated unit and is intended to be used as a gauge of how well students understand the course material.
+Knowledge checks consist of multiple choice questions administered via Canvas. The purpose is to gauge the overall comprehension of important analytics concepts and methods. Employees must complete quizzes individually, without assistance from other classmates (although the use of AI, job notes, etc. is acceptable). Each knowlege check will be available on Canvas during the associated unit.
 
 ### *Projects*
 
-The projects are the culmination of each unit. Students will have a week to complete each project. While students can work together in small groups, each student is required to submit their own work. Students are expected to attend class during project weeks where they can ask questions and work in groups.
+The projects are the culmination of each unit. Employees will be presented with a data set and a list of business problems proposed by a client. Employees will have a week to complete the project, in which they will produce a technical report and an executive summary detailing their results and recommendations for the client. While employees can work together in small groups, each employee is required to submit their own work. Projects that are identical (or highly similar) will be flagged and potentially penalized. Employees are expected to attend job meetings during project weeks where they can ask the CAO and senior partners questions and work in groups. Employees will also be required to provide project feedback to one other employee, documenting the strengths of the project and any recommended changes or additions. Finally, each senior partner will have the opportunity to choose a project they believe exceeds expectations, and the corresponding employees will receive an extra commendation.
 
-### *Extra Credit*
+### *Extra Commendations*
 
-Students interested in extra credit may earn one additional point towards their lowest project grade by meeting with the instructor for a one-on-one 'get-to-know-you' office hours meeting. This is my chance to get to know you outside of the classroom. **The due date is February 13th**. Remember that office hours are subject to availability, so schedule your meeting in advance! See the link at the top of the syllabus for scheduling.
+Employees interested in earning extra commendations (and supporting overall firm cohesiveness) may earn one additional point towards their lowest project by meeting with the CAO for a one-on-one 'get-to-know-you' office hours meeting. Remember that office hours are subject to availability. See the link at the top of the syllabus for scheduling.
 
 ## Schedule
 
-All assignments are due on Canvas at the start of the class session they are associated with in the schedule. The third review and the third project will be due by the end of finals.
+All deliverables are due on Canvas at the start of the meeting they are associated with in the schedule. The third review and the third project will be due by the end of finals.
 
-Please note that the instructor reserves the right to change the syllabus, including the schedule, at any time and for any reason. In such circumstances, he will provide students sufficient advance notice as it relates to assignment deadlines.
+Please note that the CAO reserves the right to change the syllabus and company policies regarding AI usage, performance assessments, etc., including the schedule, at any time and for any reason. In such circumstances, the CAO will provide employees sufficient advance notice as it relates to deliverable deadlines.
 
 \begin{center}
 \footnotesize
@@ -191,7 +186,7 @@ Please note that the instructor reserves the right to change the syllabus, inclu
 
 % Data
 \hline
-\multirow{3}{*}{\shortstack{Week 1 \\ January 9}}
+\multirow{3}{*}{\shortstack{Week 1 \\ January 8}}
   & \multirow{15}{*}{\shortstack{Data}}
 	  & \multirow{3}{*}{\shortstack[l]{FAQ and the Analytics Process}}	
 	    & \multirow{3}{*}{}\\ 	
@@ -199,28 +194,28 @@ Please note that the instructor reserves the right to change the syllabus, inclu
 	& & & \\
 
 \cline{1-1}\cline{3-4}
-\multirow{3}{*}{\shortstack{Week 2 \\ January 14, 16}}
-	& & \multirow{3}{*}{\shortstack[l]{R and Transform Data \\ Visualize Discrete Data\textcolor{white}{g}}} 
+\multirow{3}{*}{\shortstack{Week 2 \\ January 13, 15}}
+	& & \multirow{3}{*}{\shortstack[l]{R and Transforming Data \\ Visualize Discrete Data\textcolor{white}{g}}} 
 	  & \multirow{3}{*}{\shortstack[l]{Exercise 1 (T) \\ Exercise 2 (Th)}}\\
 	& & & \\
 	& & & \\
 
 \cline{1-1}\cline{3-4}
-\multirow{3}{*}{\shortstack{Week 3 \\ January 21, 23}}
+\multirow{3}{*}{\shortstack{Week 3 \\ January 20, 22}}
 	& & \multirow{3}{*}{\shortstack[l]{Visualize Continuous Data \\ Quarto and Tidy Data}}
 		& \multirow{3}{*}{\shortstack[l]{Exercise 3 (T) \\ Exercise 4 (Th)}} \\
   & & & \\
   & & & \\
 
 \cline{1-1}\cline{3-4}
-\multirow{3}{*}{\shortstack{Week 4 \\ January 28, 30}}
+\multirow{3}{*}{\shortstack{Week 4 \\ January 27, 29}}
 	& & \multirow{3}{*}{\shortstack[l]{Database Queries \\ APIs and Dashboards}}
 		& \multirow{3}{*}{\shortstack[l]{Exercise 5 (T) \\ Exercise 6 (Th)}} \\
   & & & \\
   & & & \\
 
 \cline{1-1}\cline{3-4}
-\multirow{3}{*}{\shortstack{Week 5 \\ February 4, 6}}
+\multirow{3}{*}{\shortstack{Week 5 \\ February 3, 5}}
 	& & \multirow{3}{*}{\shortstack[l]{\textbf{Project 1: Patagonia CRM}}}
 		& \multirow{3}{*}{\shortstack[l]{Exercise 7, Quiz 1 (T)}} \\
 	&	& & \\
@@ -228,7 +223,7 @@ Please note that the instructor reserves the right to change the syllabus, inclu
 
 % Inference
 \hline
-\multirow{3}{*}{\shortstack{Week 6 \\ February 11, 13}}
+\multirow{3}{*}{\shortstack{Week 6 \\ February 10, 12}}
   & \multirow{15}{*}{\shortstack{Inference}}
     & \multirow{3}{*}{\shortstack[l]{R and Statistical Modeling \\ Linear Models}}
 	    & \multirow{3}{*}{\shortstack[l]{Review 1, Project 1 (T) \\ Exercise 8 (Th)}} \\
@@ -236,28 +231,28 @@ Please note that the instructor reserves the right to change the syllabus, inclu
 	& & & \\
 
 \cline{1-1}\cline{3-4}
-\multirow{3}{*}{\shortstack{Week 7 \\ February 20}}
+\multirow{3}{*}{\shortstack{Week 7 \\ February 19}}
 	& & \multirow{3}{*}{\shortstack[l]{Evaluate Model Fit}}
 		& \multirow{3}{*}{\shortstack[l]{Exercise 9 (Th)}} \\
 	&	& & \\
   &	& & \\
 
 \cline{1-1}\cline{3-4}
-\multirow{3}{*}{\shortstack{Week 8 \\ February 25, 27}}
+\multirow{3}{*}{\shortstack{Week 8 \\ February 24, 26}}
 	& & \multirow{3}{*}{\shortstack[l]{Explanatory Variables \\ Overfitting and Prediction}}
 		& \multirow{3}{*}{\shortstack[l]{Exercise 10 (T) \\ Exercise 11 (Th)}} \\
 	&	& & \\
   &	& & \\
 
 \cline{1-1}\cline{3-4}
-\multirow{3}{*}{\shortstack{Week 9 \\ March 4, 6}}
+\multirow{3}{*}{\shortstack{Week 9 \\ March 3, 5}}
 	&	& \multirow{3}{*}{\shortstack[l]{Preprocess Data \\ Logistic Regression}}
 		& \multirow{3}{*}{\shortstack[l]{Exercise 12 (T) \\ Exercise 13 (Th)}}\\
 	&	& & \\
   &	& & \\
 
 \cline{1-1}\cline{3-4}
-\multirow{3}{*}{\shortstack{Week 10 \\ March 11, 13}}
+\multirow{3}{*}{\shortstack{Week 10 \\ March 10, 12}}
 	& & \multirow{3}{*}{\shortstack[l]{\textbf{Project 2: Nielsen Sales}}}
 		& \multirow{3}{*}{\shortstack[l]{Exercise 14, Quiz 2 (T)}} \\
 	&	& & \\
@@ -265,7 +260,7 @@ Please note that the instructor reserves the right to change the syllabus, inclu
 
 % Prediction
 \hline
-\multirow{3}{*}{\shortstack{Week 11 \\ March 18, 20}}
+\multirow{3}{*}{\shortstack{Week 11 \\ March 17, 19}}
 	& \multirow{15}{*}{\shortstack{Prediction}} 	
 		& \multirow{3}{*}{\shortstack[l]{R and Machine Learning \\ Decision Trees}}
 			& \multirow{3}{*}{\shortstack[l]{Review 2, Project 2 (T) \\ Exercise 15 (Th)}}\\
@@ -273,28 +268,28 @@ Please note that the instructor reserves the right to change the syllabus, inclu
   &	& & \\
 
 \cline{1-1}\cline{3-4}
-\multirow{3}{*}{\shortstack{Week 12 \\ March 25, 27}} 	
+\multirow{3}{*}{\shortstack{Week 12 \\ March 24, 26}} 	
 	&	& \multirow{3}{*}{\shortstack[l]{Random Forests\textcolor{white}{g} \\ Deep Learning}}
 		& \multirow{3}{*}{\shortstack[l]{Exercise 16 (T) \\ Exercise 17 (Th)}}\\
 	&	& & \\
   &	& & \\
 
 \cline{1-1}\cline{3-4}
-\multirow{3}{*}{\shortstack{Week 13 \\ April 1, 3}}
+\multirow{3}{*}{\shortstack{Week 13 \\ March 31, April 2}}
 	&	& \multirow{3}{*}{\shortstack[l]{Ensembles\textcolor{white}{g} \\ K-Means Clustering}} 
 		& \multirow{3}{*}{\shortstack[l]{Exercise 18 (T) \\ Exercise 19 (Th)}}\\
 	&	& & \\
   &	& & \\
 
 \cline{1-1}\cline{3-4}
-\multirow{3}{*}{\shortstack{Week 14 \\ April 8, 10}}
+\multirow{3}{*}{\shortstack{Week 14 \\ April 7, 9}}
 	&	& \multirow{3}{*}{\shortstack[l]{Hierarchical Clustering \\ Topic Models}} 
 		& \multirow{3}{*}{\shortstack[l]{Exercise 20 (T) \\ Exercise 21 (Th)}}\\
 	&	& & \\
   &	& & \\
 
 \cline{1-1}\cline{3-4}
-\multirow{3}{*}{\shortstack{Week 15 \\ April 15}}
+\multirow{3}{*}{\shortstack{Week 15 \\ April 14}}
 	& & \multirow{3}{*}{\shortstack[l]{\textbf{Project 3: Roomba Survey}}}
 		& \multirow{3}{*}{\shortstack[l]{Exercise 22, Quiz 3 (T)}} \\
 	&	& & \\
@@ -305,9 +300,10 @@ Please note that the instructor reserves the right to change the syllabus, inclu
 \end{center}
 
 \newpage
+
 ## Honor Code
 
-In keeping with the principles of the BYU Honor Code, students are expected to be honest in all of their academic work. Academic honesty means, most fundamentally, that any work you present as your own must in fact be your own work and not that of another. Violations of this principle may result in a failing grade in the course and additional disciplinary action by the university. Students are also expected to adhere to the Dress and Grooming Standards. Adherence demonstrates respect for yourself and others and ensures an effective learning and working environment. It is the university's expectation, and every instructor's expectation in class, that each student will abide by all Honor Code standards. Please call the Honor Code Office at 801-422-2847 if you have questions about those standards.
+In keeping with the principles of the BYU Honor Code, employees are expected to be honest in all of their work. Academic honesty means, most fundamentally, that any work you present as your own must in fact be your own work and not that of another. Violations of this principle may result in a failing grade on the deliverable and/or in the course and additional disciplinary action by the university. Employees are also expected to adhere to the Dress and Grooming Standards. Adherence demonstrates respect for yourself and others and ensures an effective learning and working environment. It is the university's expectation, and every instructor's expectation, that each student will abide by all Honor Code standards. Please call the Honor Code Office at 801-422-2847 if you have questions about those standards.
 
 ## Preventing & Responding to Sexual Misconduct
 
