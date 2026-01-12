@@ -24,7 +24,7 @@ header-includes:
 
 - Lark Lapicola \vspace{-3mm}
     - Contact: [artsylar@student.byu.edu](mailto:artsylar@student.byu.edu)
-    - Office Hours: 2:00pm - 3:15pm Tu/Th
+    - Office Hours: 2:00pm - 3:15pm Tu/Th (in-person, Blue Line)
     
 - Vincent Crowns \vspace{-3mm}
     - Contact: [v1842@student.byu.edu](mailto:v1842@student.byu.edu)
