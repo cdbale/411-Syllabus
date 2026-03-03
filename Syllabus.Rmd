@@ -246,15 +246,15 @@ Please note that the CAO reserves the right to change the syllabus and company p
 
 \cline{1-1}\cline{3-4}
 \multirow{3}{*}{\shortstack{Week 9 \\ March 3, 5}}
-	&	& \multirow{3}{*}{\shortstack[l]{Preprocess Data \\ Logistic Regression}}
-		& \multirow{3}{*}{\shortstack[l]{Exercise 10 (T) \\ Exercise 11 (Th)}}\\
+	&	& \multirow{3}{*}{\shortstack[l]{Preprocess Data}}
+		& \multirow{3}{*}{\shortstack[l]{Exercise 10 (T)}}\\
 	&	& & \\
   &	& & \\
 
 \cline{1-1}\cline{3-4}
 \multirow{3}{*}{\shortstack{Week 10 \\ March 10, 12}}
-	& & \multirow{3}{*}{\shortstack[l]{\textbf{Project 2: Nielsen Sales}}}
-		& \multirow{3}{*}{\shortstack[l]{Exercise 12, Quiz 2 (T)}} \\
+	& & \multirow{3}{*}{\shortstack[l]{\textbf{Project 2: Shop.com.mm}}}
+		& \multirow{3}{*}{\shortstack[l]{Exercise 11, Quiz 2 (T)}} \\
 	&	& & \\
   &	& & \\
 
@@ -262,36 +262,36 @@ Please note that the CAO reserves the right to change the syllabus and company p
 \hline
 \multirow{3}{*}{\shortstack{Week 11 \\ March 17, 19}}
 	& \multirow{15}{*}{\shortstack{Prediction}} 	
-		& \multirow{3}{*}{\shortstack[l]{R and Machine Learning \\ Decision Trees}}
-			& \multirow{3}{*}{\shortstack[l]{Project 2 (T) \\ Exercise 13 (Th)}}\\
+		& \multirow{3}{*}{\shortstack[l]{Logistic Regression \\ R and Machine Learning}}
+			& \multirow{3}{*}{\shortstack[l]{Project 2 (T) \\ Exercise 12 (Th)}}\\
 	&	& & \\
   &	& & \\
 
 \cline{1-1}\cline{3-4}
 \multirow{3}{*}{\shortstack{Week 12 \\ March 24, 26}} 	
-	&	& \multirow{3}{*}{\shortstack[l]{Random Forests\textcolor{white}{g} \\ Deep Learning}}
-		& \multirow{3}{*}{\shortstack[l]{Exercise 14 (T) \\ Exercise 15 (Th)}}\\
+	&	& \multirow{3}{*}{\shortstack[l]{Decision Trees \\ Random Forests\textcolor{white}{g}}}
+		& \multirow{3}{*}{\shortstack[l]{Exercise 13 (T) \\ Exercise 14 (Th)}}\\
 	&	& & \\
   &	& & \\
 
 \cline{1-1}\cline{3-4}
 \multirow{3}{*}{\shortstack{Week 13 \\ March 31, April 2}}
-	&	& \multirow{3}{*}{\shortstack[l]{Ensembles\textcolor{white}{g} \\ K-Means Clustering}} 
-		& \multirow{3}{*}{\shortstack[l]{Exercise 16 (T) \\ Exercise 17 (Th)}}\\
+	&	& \multirow{3}{*}{\shortstack[l]{Deep Learning \\ Ensembles\textcolor{white}{g}}} 
+		& \multirow{3}{*}{\shortstack[l]{Exercise 15 (T) \\ Exercise 16 (Th)}}\\
 	&	& & \\
   &	& & \\
 
 \cline{1-1}\cline{3-4}
 \multirow{3}{*}{\shortstack{Week 14 \\ April 7, 9}}
-	&	& \multirow{3}{*}{\shortstack[l]{Hierarchical Clustering \\ Topic Models}} 
-		& \multirow{3}{*}{\shortstack[l]{Exercise 18 (T) \\ Exercise 19 (Th)}}\\
+	&	& \multirow{3}{*}{\shortstack[l]{K-Means Clustering \\ Topic Models}} 
+		& \multirow{3}{*}{\shortstack[l]{Exercise 17 (T) \\ Exercise 18 (Th)}}\\
 	&	& & \\
   &	& & \\
 
 \cline{1-1}\cline{3-4}
 \multirow{3}{*}{\shortstack{Week 15 \\ April 14}}
-	& & \multirow{3}{*}{\shortstack[l]{\textbf{Project 3: Roomba Survey}}}
-		& \multirow{3}{*}{\shortstack[l]{Exercise 20, Quiz 3 (T)}} \\
+	& & \multirow{3}{*}{\shortstack[l]{\textbf{Project 3: Client TBD}}}
+		& \multirow{3}{*}{\shortstack[l]{Exercise 19, Quiz 3 (T)}} \\
 	&	& & \\
   &	& & \\
 
