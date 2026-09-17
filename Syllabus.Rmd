@@ -151,7 +151,7 @@ Employees may submit a **skill-building exercise** up to *one week* late for 75%
 
 ### *Skill-building Exercises*
 
-Each job meeting ends with a skill-building exercise due before the next meeting. Employees may collaborate but must submit their own work.
+There are 17 skill-building exercises, due on the dates listed in the schedule. Exercise 3 combines the previously planned Exercises 3 and 4. Employees may collaborate but must submit their own work.
 
 Employees will assess each exercise with the rubric in its posted solution and comment wherever their work differs from the solution. Add comments directly to R scripts or use the comment feature in Word documents.
 
@@ -195,31 +195,31 @@ The CAO may revise the syllabus, schedule, or company policies, including those 
 \hline
 \textbf{Week 3}\newline Sep. 15, 17 & Data
   & R and Transforming Data\newline Visualize Discrete Data
-  & Exercise 2 (Th) \\
+  & \\
 \hline
 \textbf{Week 4}\newline Sep. 22, 24 & Data
   & Visualize Continuous Data\newline Tidy Data and Types, APIs
-  & Exercise 3 (T)\newline Exercise 4 (Th) \\
+  & Exercise 2 (T)\newline Exercise 3 (Th) \\
 \hline
 \textbf{Week 5}\newline Sep. 29, Oct. 1 & Data
   & \textbf{Project 1: iFood}
-  & Exercise 5 (T)\newline Knowledge Check 1 (T) \\
+  & Exercise 4 (T)\newline Knowledge Check 1 (T) \\
 \hline
 \textbf{Week 6}\newline Oct. 6, 8 & Inference
   & R and Statistical Modeling\newline Linear Models
-  & Project 1 (T)\newline Exercise 6 (Th) \\
+  & Project 1 (T)\newline Exercise 5 (Th) \\
 \hline
 \textbf{Week 7}\newline Oct. 13, 15 & Inference
   & Evaluate Model Fit\newline Explanatory Variables
-  & Exercise 7 (T)\newline Exercise 8 (Th) \\
+  & Exercise 6 (T)\newline Exercise 7 (Th) \\
 \hline
 \textbf{Week 8}\newline Oct. 20, 22 & Inference
   & Overfitting and Prediction\newline Preprocess Data
-  & Exercise 9 (T)\newline Exercise 10 (Th) \\
+  & Exercise 8 (T)\newline Exercise 9 (Th) \\
 \hline
 \textbf{Week 9}\newline Oct. 27, 29 & Inference
   & Preprocess Data\newline \textbf{Project 2: Shop.com.mm}
-  & Exercise 11 (Th)\newline Knowledge Check 2 (Th) \\
+  & Exercise 10 (Th)\newline Knowledge Check 2 (Th) \\
 \hline
 \textbf{Week 10}\newline Nov. 3, 5 & Inference /\newline Prediction
   & \textbf{Project 2: Shop.com.mm}\newline Logistic Regression
@@ -227,22 +227,22 @@ The CAO may revise the syllabus, schedule, or company policies, including those 
 \hline
 \textbf{Week 11}\newline Nov. 10, 12 & Prediction
   & R and Machine Learning\newline Decision Trees
-  & Exercise 12 (T)\newline Exercise 13 (Th) \\
+  & Exercise 11 (T)\newline Exercise 12 (Th) \\
 \hline
 \textbf{Week 12}\newline Nov. 17, 19 & Prediction
   & Random Forests\newline Deep Learning
-  & Exercise 14 (T)\newline Exercise 15 (Th) \\
+  & Exercise 13 (T)\newline Exercise 14 (Th) \\
 \hline
 \textbf{Week 13}\newline Nov. 24, 26 & --
   & \textbf{No class: Thanksgiving week} & \\
 \hline
 \textbf{Week 14}\newline Dec. 1, 3 & Prediction
   & Ensembles\newline K-Means Clustering
-  & Exercise 16 (T)\newline Exercise 17 (Th) \\
+  & Exercise 15 (T)\newline Exercise 16 (Th) \\
 \hline
 \textbf{Week 15}\newline Dec. 8, 10 & Prediction
   & Topic Models\newline \textbf{Project 3: Client TBD}
-  & Exercise 18 (T)\newline Exercise 19 (Th)\newline Knowledge Check 3 (Th) \\
+  & Exercise 17 (T)\newline Knowledge Check 3 (Th) \\
 \hline
 \end{tabularx}
 \end{center}
