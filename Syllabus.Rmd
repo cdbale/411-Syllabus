@@ -31,7 +31,7 @@ header-includes:
     
 - Paige Flake \vspace{-3mm}
     - Contact: [paigeef@student.byu.edu](mailto:paigeef@student.byu.edu)
-    - Office Hours: M/W 8:30-9:45am, (in-person, Blue Line)
+    - Office Hours: M/W 9:30-10:45am, (in-person, Blue Line)
 
 ## Overview
 
