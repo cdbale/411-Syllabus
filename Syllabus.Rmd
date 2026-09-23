@@ -151,15 +151,15 @@ Employees may submit a **skill-building exercise** up to *one week* late for 75%
 
 ### *Skill-building Exercises*
 
-There are 17 skill-building exercises, due on the dates listed in the schedule. Exercise 3 combines the previously planned Exercises 3 and 4. Employees may collaborate but must submit their own work.
+There are 14 skill-building exercises, due on the dates listed in the schedule. Exercise 3 combines the previously planned Exercises 3 and 4. Employees may collaborate but must submit their own work.
 
 Employees will assess each exercise with the rubric in its posted solution and comment wherever their work differs from the solution. Add comments directly to R scripts or use the comment feature in Word documents.
 
-Employees will have one week from the initial due date to submit their evaluated exercise. Students will receive a nominal amount of points for reviewing their exercises on time.
+Employees will have one week from the initial due date to submit their evaluated exercise. For exercises submitted during the week before Thanksgiving, graded versions are due two weeks after the initial due date, during the week after Thanksgiving. Students will receive a nominal amount of points for reviewing their exercises on time.
 
 ### *Knowledge Checks*
 
-Knowledge checks are written, in-person quizzes that assess comprehension of key analytics concepts and methods. Employees must complete them individually. Only printed or handwritten course materials are permitted; electronic devices and technological assistance are prohibited. There will be one knowledge check at the end of each unit (three total).
+Knowledge checks are written, in-person quizzes that assess comprehension of key analytics concepts and methods. Employees must complete them individually. Only printed or handwritten course materials are permitted; electronic devices and technological assistance are prohibited. There will be three knowledge checks, held on the dates listed in the schedule.
 
 ### *Projects*
 
@@ -171,7 +171,7 @@ To support firm cohesion, employees may earn one additional point on their lowes
 
 ## Schedule
 
-All deliverables are due on Canvas at the start of the associated meeting. In rows with two topics, the first is scheduled for Tuesday and the second for Thursday. Project 3 is due at the end of finals week.
+All deliverables except Project 3 are due on Canvas at the start of the associated meeting. In rows with two topics, the first is scheduled for Tuesday and the second for Thursday. Project 3 is due on Thursday, December 17, 2026, at 11:59 p.m. Mountain Time, the last day of finals.
 
 The CAO may revise the syllabus, schedule, or company policies, including those governing AI use and performance assessment. Employees will receive reasonable notice of changes that affect deadlines.
 
@@ -198,53 +198,56 @@ The CAO may revise the syllabus, schedule, or company policies, including those 
   & \\
 \hline
 \textbf{Week 4}\newline Sep. 22, 24 & Data
-  & Visualize Continuous Data\newline Tidy Data and Types, APIs
+  & Visualize Continuous Data\newline Tidy Data and Types
   & Exercise 2 (T)\newline Exercise 3 (Th) \\
 \hline
 \textbf{Week 5}\newline Sep. 29, Oct. 1 & Data
-  & \textbf{Project 1: iFood}
+  & Codex\newline Live Workshop
   & Exercise 4 (T)\newline Knowledge Check 1 (T) \\
 \hline
-\textbf{Week 6}\newline Oct. 6, 8 & Inference
-  & R and Statistical Modeling\newline Linear Models
-  & Project 1 (T)\newline Exercise 5 (Th) \\
+\textbf{Week 6}\newline Oct. 6, 8 & Data
+  & \textbf{Project 1: iFood}
+  & \\
 \hline
 \textbf{Week 7}\newline Oct. 13, 15 & Inference
-  & Evaluate Model Fit\newline Explanatory Variables
-  & Exercise 6 (T)\newline Exercise 7 (Th) \\
+  & Linear Models\newline Evaluate Model Fit
+  & Project 1 (T)\newline Exercise 5 (Th) \\
 \hline
 \textbf{Week 8}\newline Oct. 20, 22 & Inference
-  & Overfitting and Prediction\newline Preprocess Data
-  & Exercise 8 (T)\newline Exercise 9 (Th) \\
+  & Explanatory Variables\newline Overfitting and Prediction
+  & Exercise 6 (T)\newline Exercise 7 (Th) \\
 \hline
 \textbf{Week 9}\newline Oct. 27, 29 & Inference
-  & Preprocess Data\newline \textbf{Project 2: Shop.com.mm}
-  & Exercise 10 (Th)\newline Knowledge Check 2 (Th) \\
+  & Preprocess Data\newline Preprocess Data
+  & Exercise 8 (T) \\
 \hline
-\textbf{Week 10}\newline Nov. 3, 5 & Inference /\newline Prediction
+\textbf{Week 10}\newline Nov. 3, 5 & Inference
+  & Live Workshop\newline \textbf{Project 2: Shop.com.mm}
+  & Exercise 9 (T)\newline Knowledge Check 2 (Th) \\
+\hline
+\textbf{Week 11}\newline Nov. 10, 12 & Inference /\newline Prediction
   & \textbf{Project 2: Shop.com.mm}\newline Logistic Regression
   & Project 2 (Th) \\
 \hline
-\textbf{Week 11}\newline Nov. 10, 12 & Prediction
-  & R and Machine Learning\newline Decision Trees
-  & Exercise 11 (T)\newline Exercise 12 (Th) \\
-\hline
 \textbf{Week 12}\newline Nov. 17, 19 & Prediction
-  & Random Forests\newline Deep Learning
-  & Exercise 13 (T)\newline Exercise 14 (Th) \\
+  & Decision Trees\newline Random Forests
+  & Exercise 10 (T)\newline Exercise 11 (Th) \\
 \hline
 \textbf{Week 13}\newline Nov. 24, 26 & --
   & \textbf{No class: Thanksgiving week} & \\
 \hline
 \textbf{Week 14}\newline Dec. 1, 3 & Prediction
-  & Ensembles\newline K-Means Clustering
-  & Exercise 15 (T)\newline Exercise 16 (Th) \\
+  & K-Means Clustering\newline Topic Models
+  & Exercise 12 (T)\newline Exercise 13 (Th) \\
 \hline
 \textbf{Week 15}\newline Dec. 8, 10 & Prediction
-  & Topic Models\newline \textbf{Project 3: Client TBD}
-  & Exercise 17 (T)\newline Knowledge Check 3 (Th) \\
+  & Live Workshop\newline \textbf{Project 3: Client TBD}
+  & Exercise 14 (T)\newline Knowledge Check 3 (Th) \\
 \hline
 \end{tabularx}
+
+\smallskip
+\textbf{Project 3 due:} Thursday, December 17, 2026, at 11:59 p.m. Mountain Time.
 \end{center}
 
 \newpage
