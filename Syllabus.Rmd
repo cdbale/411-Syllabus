@@ -226,7 +226,7 @@ The CAO may revise the syllabus, schedule, or company policies, including those 
   & Exercise 9 (T) \\
 \hline
 \textbf{Week 11}\newline Nov. 10, 12 & Inference
-  & \textbf{Project 2: Shop.com.mm}
+  & \textbf{Project 2: Mile High Stays}
   & Knowledge Check 2 (T) \\
 \hline
 \textbf{Week 12}\newline Nov. 17, 19 & Prediction
