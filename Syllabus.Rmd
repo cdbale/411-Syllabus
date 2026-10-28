@@ -241,7 +241,7 @@ The CAO may revise the syllabus, schedule, or company policies, including those 
   & Exercise 11 (T)\newline Exercise 12 (Th) \\
 \hline
 \textbf{Week 15}\newline Dec. 8, 10 & Prediction
-  & Live Workshop\newline \textbf{Project 3: Client TBD}
+  & Live Workshop\newline \textbf{Project 3: Mercari}
   & Exercise 13 (T)\newline Knowledge Check 3 (Th) \\
 \hline
 \end{tabularx}
